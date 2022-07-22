@@ -1,0 +1,52 @@
+h1 {
+  color: black;
+  font-family: Google Sans, arial, sans-serif;
+}
+.cloud-icon {
+  color: darkblue;
+  font-weight: 24px;
+}
+.search {
+  max-width: 50%;
+}
+body {
+  max-width: 70%;
+  margin: 0 auto;
+}
+.container {
+  border: 1px solid;
+  border-radius: 15px;
+  padding: 15px 15px;
+  margin: 15px auto;
+}
+img {
+  display: inline;
+}
+.row {
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  margin: 15 auto;
+  padding: 0;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+.col-6 {
+  margin: 10px 5px;
+  font-size: 11px;
+}
+.temperature {
+  font-size: 60px;
+}
+.units {
+  vertical-align: text-top;
+  font-size: 18px;
+}
+
+.btn {
+  display: inline;
+}
